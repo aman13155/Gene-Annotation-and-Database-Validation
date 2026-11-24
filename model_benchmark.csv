@@ -1,0 +1,5 @@
+Model,Embedding_Dim,Strength,Weakness
+Autoencoder,256,Expression reconstruction,Low biological semantics
+GeneFormer,384,Semantic gene knowledge,Less perturbation-specific
+scGPT,384,Single-cell context,High compute
+Fusion,1024,Best combined representation,Complex pipeline

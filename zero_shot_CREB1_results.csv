@@ -1,0 +1,2 @@
+unseen_gene,mse,r2,mean_cellwise_pearson,mean_genewise_pearson
+CREB1,0.09242631494998932,0.7384026050567627,0.8606397,0.0009294253

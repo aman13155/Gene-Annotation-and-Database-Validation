@@ -1,0 +1,2 @@
+unseen_gene,baseline_mse,bio_mse,baseline_r2,bio_r2,baseline_cellwise,bio_cellwise,baseline_genewise,bio_genewise
+CREB1,0.092426,0.08952093869447708,0.738403,0.7466257810592651,0.86064,0.8651418,0.000929,0.00081498764
